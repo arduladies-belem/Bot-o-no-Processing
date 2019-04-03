@@ -49,7 +49,7 @@ void setup(){
  textSize(31);
  // Define a cor e imprime o texto
  fill(255);  // Cor branca
- text("Arduino e Cia", width/2,30);
+ text("Arduladies Belém", width/2,30);
  // Final do cabecalho
    
  // Texto Estado Botao
